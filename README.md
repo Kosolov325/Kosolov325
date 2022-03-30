@@ -18,6 +18,6 @@
 
 
 <div style:"display: flex;">
-<img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kosolov325&show_icons=true&bg_color=000000" alt="kosolov325" />
-<img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosolov325&layout=compact&bg_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kosolov325&show_icons=true&bg_color=000000" alt="kosolov325" />
+<img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosolov325&layout=compact&bg_color=000000" />
 </div>
