@@ -5,7 +5,7 @@
 
 ### <p align="center"> `class kosolov325:` </p>
 ### <p align="center"> `def connect_with_me():` </p>
-<p align="center"> <a align="center" href="https://twitter.com/kosolov325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kosolov325" height="30" width="40" /></a>
+<p align="center"> 
  <a href="https://linkedin.com/in/lucascalado325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucascalado325" height="30" width="40" /></a> </p>
  
 ### <p align="center"> `languages_and_tools =` </p>
