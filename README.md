@@ -18,6 +18,5 @@
 <div align="center">
 <img height="170em" src="https://github-readme-stats-fawn-gamma.vercel.app/api?username=Kosolov325&show_icons=true&bg_color=000000" alt="kosolov325" />
 <img height="170em" src="https://github-readme-stats-fawn-gamma.vercel.app/api/top-langs/?username=Kosolov325&layout=compact&bg_color=000000" />
-<img height="170em" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
 </div>
 
